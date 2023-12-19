@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Sat Dec 16 21:53:52 2023
+# Process ID: 17924
+# Current directory: C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1
+# Command line: vivado.exe -log swLEDcounter_dlmb_v10_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source swLEDcounter_dlmb_v10_0.tcl
+# Log file: C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0.vds
+# Journal file: C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1\vivado.jou
+# Running On: DESKTOP-S7KVEL9, OS: Windows, CPU Frequency: 3793 MHz, CPU Physical cores: 24, Host memory: 68624 MB
+#-----------------------------------------------------------
+source swLEDcounter_dlmb_v10_0.tcl -notrace
+create_project: Time (s): cpu = 00:00:07 ; elapsed = 00:00:07 . Memory (MB): peak = 520.531 ; gain = 219.793
+INFO: [IP_Flow 19-6924] IPCACHE: Running cache check for IP inst: swLEDcounter_dlmb_v10_0
+INFO: [IP_Flow 19-6922] IPCACHE: Exporting cached entry 4be8e20ce51b47dc to dir: C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.cache/ip/2023.2/4/b/4be8e20ce51b47dc/swLEDcounter_ilmb_v10_0.dcp to C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0.dcp.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.cache/ip/2023.2/4/b/4be8e20ce51b47dc/swLEDcounter_ilmb_v10_0_sim_netlist.v to C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0_sim_netlist.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.cache/ip/2023.2/4/b/4be8e20ce51b47dc/swLEDcounter_ilmb_v10_0_sim_netlist.vhdl to C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0_sim_netlist.vhdl.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.cache/ip/2023.2/4/b/4be8e20ce51b47dc/swLEDcounter_ilmb_v10_0_stub.v to C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0_stub.v.
+INFO: [IP_Flow 19-6928] IPCACHE: copied cached file c:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.cache/ip/2023.2/4/b/4be8e20ce51b47dc/swLEDcounter_ilmb_v10_0_stub.vhdl to C:/Users/mkolb/Documents/Github/Basys3/project_1/project_1.runs/swLEDcounter_dlmb_v10_0_synth_1/swLEDcounter_dlmb_v10_0_stub.vhdl.
+INFO: [IP_Flow 19-4838] Using cached IP synthesis design for IP swLEDcounter_dlmb_v10_0, cache-ID = 4be8e20ce51b47dc.
+INFO: [Common 17-206] Exiting Vivado at Sat Dec 16 21:54:04 2023...
